@@ -35,17 +35,17 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/profile.php?id=100004750068594">
           <FaFacebookSquare />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/MoJallow07">
           <AiOutlineTwitter />
         </a>
-        <a href="https://linkedin.com">
+        <a href="https://linkedin.com/in/modou-jallow-673756168/">
           <AiOutlineLinkedin />
         </a>
       </div>
-      <div className='footer__copyright'>
+      <div className="footer__copyright">
         <small>&copy; MLJ Portfolio. All right served. </small>
       </div>
     </footer>
