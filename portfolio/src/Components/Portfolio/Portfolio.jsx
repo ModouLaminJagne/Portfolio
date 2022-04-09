@@ -4,7 +4,7 @@ import chip from '../../Assets/chip.webp'
 import ASSC from '../../Assets/ASSC.jpg'
 import GMCL from '../../Assets/GMCL.png'
 import DA from '../../Assets/DA.webp'
-import Hacker from '../../Assets/Hacker.webp'
+import BC from '../../Assets/BC.webp'
 import AI from '../../Assets/AI.jpg'
 
 const data = [
@@ -38,8 +38,8 @@ const data = [
   },
   {
     id: 5,
-    image: Hacker,
-    title: 'Am blocking the chains',
+    image: BC,
+    title: 'I AM ALSO INTERESTED IN BLOCKCHAIN TECHNOLOGIES',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },

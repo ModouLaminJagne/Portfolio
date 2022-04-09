@@ -6,7 +6,7 @@ const Experience = () => {
   return (
     <section id="experience">
       <h5>Skills</h5>
-      <h2>My Experience</h2>
+      <h2>My Skills</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Frontend Development</h3>
@@ -35,24 +35,24 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>REACT</h4>
+                <h4>JUPITER NOTEBOOK</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>BOOTSTRAP</h4>
                 <small className="text-light">Experienced</small>
               </div>
-            </article>
-            <article className="experience__details">
+            </article> */}
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>WEB 3</h4>
                 <small className="text-light">Experienced</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
         {/* ===================END OF FRONTEND=================== */}
@@ -80,13 +80,13 @@ const Experience = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Experienced</small>
               </div>
-            </article>
+            </article> */}
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>

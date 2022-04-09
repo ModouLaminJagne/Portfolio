@@ -2,12 +2,12 @@ import './App.css';
 import Header from './Components/Header/Header';
 import Nav from './Components/Nav/Nav';
 import About from './Components/About/About';
-import Services from './Components/Services/Services';
+// import Services from './Components/Services/Services';
 import Experience from './Components/Experience/Experience';
 import Footer from './Components/Footer/Footer';
 import Contacts from './Components/Contact/Contacts';
 import Portfolio from './Components/Portfolio/Portfolio';
-import Testimonials from './Components/Testimonial/Testimonials';
+// import Testimonials from './Components/Testimonial/Testimonials';
 import React from 'react';
 
 const App = () => {
@@ -17,9 +17,9 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
-      <Services />
+      {/* <Services /> */}
       <Portfolio />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contacts />
       <Footer />
     </div>
