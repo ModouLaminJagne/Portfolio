@@ -1,38 +1,38 @@
 import React from 'react'
 import './Portfolio.css'
-import BC from '../../Assets/BC.webp'
-import ML from '../../Assets/ML.webp'
-import MTVers from '../../Assets/MTVers.webp'
+import chip from '../../Assets/chip.webp'
+import ASSC from '../../Assets/ASSC.jpg'
+import GMCL from '../../Assets/GMCL.png'
 import DA from '../../Assets/DA.webp'
 import Hacker from '../../Assets/Hacker.webp'
-import chip from '../../Assets/chip.webp'
+import AI from '../../Assets/AI.jpg'
 
 const data = [
   {
     id: 1,
-    image: BC,
-    title: 'Am blocking the chains',
+    image: chip,
+    title: 'INSTITUTE OF ENGINEERS MALAYSIA A.P.U STUDENT SECTION (I.A.S.S)',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },
   {
     id: 2,
-    image: ML,
-    title: 'Am blocking the chains',
+    image: ASSC,
+    title: 'AFRICA SOCIETY OF ASIA PACIFIC UNIVERSITY (A.S.A.P.U)',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },
   {
     id: 3,
-    image: MTVers,
-    title: 'Am blocking the chains',
+    image: GMCL,
+    title: 'GOMINDZ .Inc. \n Co-founder. 2019',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },
   {
     id: 4,
     image: DA,
-    title: 'Am blocking the chains',
+    title: 'ASEAN DATA ANALYSIS CHALLENGE',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },
@@ -45,8 +45,8 @@ const data = [
   },
   {
     id: 6,
-    image: chip,
-    title: 'Am blocking the chains',
+    image: AI,
+    title: 'AI & BIG DATA CHALLENGE FOR DATA ENGINEERS',
     github: 'https:/github.com',
     // github: 'https:/github.com',
   },
@@ -55,7 +55,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      <h5>Experience And Interests</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

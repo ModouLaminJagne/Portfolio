@@ -38,35 +38,35 @@ const Contacts = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>jagnemlgh@gmail.com</h5>
+            <h5>jallowmodou24@gmail.com</h5>
             <a
-              href="mailto:jagnemlgh@gmail.com"
+              href="mailto:jallowmodou24@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
-              Send a message
+              Mail me
             </a>
           </article>
           <article className="contact__option">
             <AiOutlineTwitter className="contact__option-icon" />
             <h4>Twitter</h4>
             <a
-              href="https://twitter.com/ModouLJagne"
+              href="https://twitter.com/MoJallow07"
               target="_blank"
               rel="noreferrer"
             >
-              Send a message
+              Let's tweet
             </a>
           </article>
           <article className="contact__option">
             <AiOutlineWhatsApp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <a
-              href="https://api.whatsapp.com/send?phone=2205368409"
+              href="https://api.whatsapp.com/send?phone=2203258685"
               target="_blank"
               rel="noreferrer"
             >
-              Send a message
+              Let's chat
             </a>
           </article>
         </div>

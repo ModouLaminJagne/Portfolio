@@ -43,7 +43,10 @@ const About = () => {
             fusion being my favorite youtube channel), politics (Visual Politik
             channel) and history (Biographics channel) . Every day I push myself
             to learn something new, whether that be about machine learning,
-            blockchain or miscellaneous facts about the universe.
+            blockchain or miscellaneous facts about the universe. <br></br>
+            I co.founded Gomindz, a startup that uses Analytics and Machine Learning
+            technologies to enhance business efficiency, sustainability and
+            scalability.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's talk
