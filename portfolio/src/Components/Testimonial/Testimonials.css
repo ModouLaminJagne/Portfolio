@@ -7,7 +7,7 @@
   aspect-ratio: 1/1;
   overflow: hidden;
   border-radius: 50%;
-  margin: 0 auto 1rem; 
+  margin: 0 auto 1rem;
   border: 0.4rem solid var(--color-primary-variant);
   /* padding-top: 0.5rem; */
 }
@@ -25,8 +25,8 @@
   width: 80%;
   margin: 0.8rem auto 0;
 }
-.swiper-pagination-clickable swiper-pagination-bullet{
-background: var(--color-primary);
+.swiper-pagination-clickable swiper-pagination-bullet {
+  background: var(--color-primary);
 }
 
 /*=============MEDIA QUERIES (MEDIUM DEVICES)==========*/
@@ -41,7 +41,7 @@ background: var(--color-primary);
   .container.testimonials__container {
     width: var(--container-width-sm);
   }
-  .client__review{
-      width: var(--container-width-sm);
+  .client__review {
+    width: var(--container-width-sm);
   }
 }
